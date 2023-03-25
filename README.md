@@ -1,2 +1,4 @@
-# Job-1
-What this? im dont know
+# smart_notes
+## smart notes
+'''pip install pygame'''
+
